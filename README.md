@@ -1,11 +1,12 @@
 <img align="left" src="https://violetradd.com/about/selfie.jpg" height=300>
-## yo whats up
-<br>
-💜 the names Violet or just V. im 22 and i wear many disparate hats. she/her<br>
-💾 i can use javascript, HMTL & CSS, PHP, python, java, gdscript, and a bong<br>
-🗣 COMPRAMOS CARROS Y CAMIONETAS VIEJAS PARA DESARMAR<br>
 
-<br><br>
+## yo whats up
+
+💜 the names Violet or just V. im 22 and i wear many disparate hats. she/her
+
+💾 i can use javascript, HMTL & CSS, PHP, python, java, gdscript, and a bong
+
+🗣 COMPRAMOS CARROS Y CAMIONETAS VIEJAS PARA DESARMAR
 
 <i>
   BORN IN A MOUNTAIN<br>
