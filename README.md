@@ -1,16 +1,39 @@
-### Hi there 👋
+<img align="left" src="https://violetradd.com/about/selfie.jpg" height=300>
+## yo whats up
+<br>
+💜 the names Violet or just V. im 22 and i wear many disparate hats. she/her<br>
+💾 i can use javascript, HMTL & CSS, PHP, python, java, gdscript, and a bong<br>
+🗣 COMPRAMOS CARROS Y CAMIONETAS VIEJAS PARA DESARMAR<br>
+
+<br><br>
+
+<i>
+  BORN IN A MOUNTAIN<br>
+  RAISED IN A CAVE<br>
+  SPAGHETTI WITH MEATBALLS<br>
+  IS ALL THAT I CRAVE<br>
+</i>
 
 <!--
-**violetradd/violetradd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+                                     )
+                            )      ((     (
+                           (        ))     )
+                    )       )      //     (
+               _   (        __    (     ~->>
+        ,-----' |__,_~~___<'__`)-~__--__-~->> <
+        | //  : | -__   ~__ o)____)),__ - '> >-  >
+        | //  : |- \_ \ -\_\ -\ \ \ ~\_  \ ->> - ,  >>
+        | //  : |_~_\ -\__\ \~'\ \ \, \__ . -<-  >>
+        `-----._| `  -__`-- - ~~ -- ` --~> >
+         _/___\_    //)_`//  | ||]
+   _____[_______]_[~~-_ (.L_/  ||       https://www.youtube.com/watch?v=UfLsWWRqpDM
+  [____________________]' `\_,/'/
+    ||| /          |||  ,___,'./
+    ||| \          |||,'______|
+    ||| /          /|| I==||
+    ||| \       __/_||  __||__
+-----||-/------`-._/||-o--o---o---
+  ~~~~~'
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
