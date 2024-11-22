@@ -1,8 +1,6 @@
-<img align="left" src="https://violetradd.com/about/selfie.jpg" height=300>
-
 ## yo whats up
 
-💜 the names Violet or just V. im 22 and i wear many disparate hats. she/her
+💜 im Violet or just V
 
 💾 i can use javascript, HMTL & CSS, PHP, python, java, gdscript, and a bong
 
@@ -27,7 +25,7 @@
         | //  : |_~_\ -\__\ \~'\ \ \, \__ . -<-  >>
         `-----._| `  -__`-- - ~~ -- ` --~> >
          _/___\_    //)_`//  | ||]
-   _____[_______]_[~~-_ (.L_/  ||       https://www.youtube.com/watch?v=UfLsWWRqpDM
+   _____[_______]_[~~-_ (.L_/  ||      https://www.youtube.com/watch?v=U4comCuPBzE
   [____________________]' `\_,/'/
     ||| /          |||  ,___,'./
     ||| \          |||,'______|
