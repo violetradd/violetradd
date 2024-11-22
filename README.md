@@ -1,17 +1,8 @@
-## yo whats up
+## yo what up
 
 💜 im Violet or just V
 
-💾 i can use javascript, HMTL & CSS, PHP, python, java, gdscript, and a bong
-
-🗣 COMPRAMOS CARROS Y CAMIONETAS VIEJAS PARA DESARMAR
-
-<i>
-  BORN IN A MOUNTAIN<br>
-  RAISED IN A CAVE<br>
-  SPAGHETTI WITH MEATBALLS<br>
-  IS ALL THAT I CRAVE<br>
-</i>
+💾 i can use HMTL, CSS, javascript, PHP, python, and a bong
 
 <!--
                                      )
